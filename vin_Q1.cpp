@@ -16,7 +16,7 @@ printfact(int n)
 	
 	for(i=0;i<n;i++)
 	{
-		cout << ;
+		cout << fact(i);
 	}
 }
 
