@@ -16,7 +16,7 @@ printfact(int n)
 	
 	for(i=0;i<n;i++)
 	{
-		cout << printfact(i) ;
+		cout << ;
 	}
 }
 
@@ -28,7 +28,7 @@ int main()
 	cin >> a ;
 	
 	fact(a);
-	printfact(fact(a));
+	printfact(a);
 	
 	return 0;
 }
